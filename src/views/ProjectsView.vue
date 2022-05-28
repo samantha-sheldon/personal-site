@@ -13,7 +13,6 @@
     <TerminalLead location="~" cmd="cd projects" />
     <TerminalLead location="~/projects" cmd="ls" />
     <div class="grid grid-cols-4">
-      <div>index.txt</div>
       <BlinkLink href="https://github.com/samantha-sheldon/personal-site" class="font-bold text-term-6">personal-site</BlinkLink>
     </div>
     <TerminalLead location="~/projects" cmd="" />
