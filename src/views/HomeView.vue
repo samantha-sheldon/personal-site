@@ -4,7 +4,7 @@
 
 <template>
   <main class="flex flex-col px-2">
-    <TerminalLead location="~" cmd="cat index.txt" />
+    <TerminalLead location="~" cmd="cat home" />
     <div>
       <p>Hi. I'm Sam. I program websites.</p>
     </div>
